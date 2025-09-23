@@ -1,4 +1,3 @@
-# git-practice
 # Git Commands Basics
 
 This guide covers the **essential Git commands** you need to know.  
