@@ -138,3 +138,4 @@ Completed Git Training
 - Tony
 - Huimin
 - Nathalie
+- Luka
