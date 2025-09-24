@@ -135,7 +135,7 @@ git switch -c new-branch   # create and switch
 ---
 
 Completed Git Training
-- Tony
+- Tony S.
 - Huimin
 - Nathalie
 - Luka M.
